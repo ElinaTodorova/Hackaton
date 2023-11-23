@@ -7,19 +7,20 @@
 }
 
 .mainContainerCard {
-  border: red 2px solid;
-  height: 50rem;
-  width: 50rem;
+  height: 70%;
+  width: 40%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  border: 0.5px solid rgba(255, 255, 255, 0.514);
+  backdrop-filter: blur(8px);
+  box-shadow: 12px 12px 2rem rgba(255, 255, 255, 0.616);
+  border-radius: 1rem;
 }
 
 .imageContainer {
-  border: red 2px solid;
-  width: 40%;
-  height: 40%;
+  height: 20rem;
 }
 
 .imageContainer img {
@@ -28,7 +29,9 @@
 }
 
 .question {
+  margin: 1rem;
   color: white;
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }

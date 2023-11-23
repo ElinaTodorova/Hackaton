@@ -9,13 +9,20 @@ export default function CardQuestion() {
 
   return (
     <div className={styles.questionContainer}>
-      <div className={styles.mainContainerCard}>
-        <div className={styles.imageContainer}>
-          <img src={dataTableau[id - 1].image} alt="some" />
-        </div>
-        <p className={styles.question}> {dataTableau[id - 1].question}</p>
-        <img src={dataTableau[id - 1].image} alt="" />
-      </div>
+      {dataTableau
+        .filter((element) => Number(element.id) === Number(id))
+        .map((question) => (
+          <div className={styles.mainContainerCard} key={question.id}>
+            <div className={styles.imageContainer}>
+              <img src={question.image} alt="some" />
+            </div>
+
+            <p className={styles.question}> {question.question}</p>
+            <div>
+              <p className={styles.question}>{question.reponse}</p>
+            </div>
+          </div>
+        ))}
     </div>
   );
 }

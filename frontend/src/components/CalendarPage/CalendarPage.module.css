@@ -7,7 +7,6 @@
 .caseData {
   height: 17rem;
   width: 17rem;
-  background-color: aqua;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,6 +20,7 @@
 
 a {
   text-decoration: none;
+  color: rgb(0, 0, 69);
 }
 
 .containerDate {

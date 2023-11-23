@@ -7,9 +7,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Festive";
-  height: 100%;
 }
 
 body {
   background: linear-gradient(rgb(0, 0, 69), #00001c);
+  height: 100%;
 }
