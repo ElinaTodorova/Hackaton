@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 // eslint-disable-next-line import/no-extraneous-dependencies
-// import Snowfall from "react-snowfall";
+import Snowfall from "react-snowfall";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
@@ -23,7 +23,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    {/* <Snowfall /> */}
+    <Snowfall />
     <RouterProvider router={router} />
   </React.StrictMode>
 );
