@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./components/Header";
-import CalendarPage from "./components/CalendarPage";
+import CalendarPage from "./components/CalendarPage/CalendarPage";
 
 function App() {
   return (
