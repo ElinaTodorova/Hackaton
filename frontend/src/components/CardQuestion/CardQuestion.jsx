@@ -19,7 +19,7 @@ export default function CardQuestion() {
 
             <p className={styles.question}> {question.question}</p>
             <div>
-              <p className={styles.question}>{question.reponse}</p>
+              <p className={styles.answer}>{question.reponse}</p>
             </div>
           </div>
         ))}
