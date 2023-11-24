@@ -10,7 +10,15 @@ export default function Header() {
   return (
     <div className={isLight ? `${styles.lightMode}` : `${styles.darkMode}`}>
       <div className={styles.header}>
-        <img src="./images/logo.png" alt="LOGO Santa's Elves" />
+        {!isLight ? (
+          <img src="./images/logo.png" alt="LOGO Santa's Elves" />
+        ) : (
+          <img
+            className={styles.logoDark}
+            src="./images/logoDark.png"
+            alt="LOGO Santa's Elves"
+          />
+        )}
       </div>
       <div className={styles.switch}>
         {!isLight ? (

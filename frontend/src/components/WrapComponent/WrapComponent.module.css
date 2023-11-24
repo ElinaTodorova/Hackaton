@@ -1,5 +1,19 @@
 .darkMode {
-  background: linear-gradient(rgb(0, 0, 69), #00001c);
+  background-image: linear-gradient(
+    to right top,
+    #1d73d3,
+    #1e72cf,
+    #1f71cb,
+    #206fc6,
+    #216ec2,
+    #1178c6,
+    #0181ca,
+    #008acc,
+    #009fd3,
+    #00b2d4,
+    #3dc5d4,
+    #68d6d2
+  );
 }
 
 /* .darkMode p,

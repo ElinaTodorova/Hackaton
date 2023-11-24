@@ -1,8 +1,15 @@
 .titleH1 {
   text-align: center;
   font-size: 5rem;
-  color: #daa520;
   padding-top: 5rem;
+}
+
+.lightMode {
+  color: white;
+}
+
+.darkMode {
+  color: white;
 }
 
 .caseData {
@@ -13,24 +20,26 @@
   align-items: center;
   flex-direction: column;
   border-radius: 1.5rem;
-  background-color: #efcf7e;
+  -webkit-box-shadow: 4px 5px 15px 5px white;
+  box-shadow: 4px 5px 15px 5px white;
 }
 
 .lightMode .caseData {
-  color: black;
+  color: white;
 }
 
 .darkmode .caseData {
-  color: black;
+  color: white;
 }
 
 .caseData p {
   font-size: 3rem;
+  font-weight: bold;
 }
 
 a {
   text-decoration: none;
-  color: rgb(0, 0, 69);
+  color: white;
 }
 
 .containerDate {

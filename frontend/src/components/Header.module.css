@@ -23,8 +23,13 @@
 }
 
 .darkMode svg {
-  fill: white;
+  fill: rgb(155, 0, 0);
 }
 .lightMode svg {
-  fill: white;
+  fill: rgb(97, 208, 255);
+}
+
+.logoDark {
+  height: 20rem;
+  width: 20rem;
 }

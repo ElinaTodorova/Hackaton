@@ -9,7 +9,27 @@ export default function CalendarPage() {
 
   return (
     <>
-      <h1 className={styles.titleH1}>Caledrier de l'avent</h1>
+      {!isLight ? (
+        <h1
+          className={
+            isLight
+              ? `${styles.titleH1} ${styles.lightMode}`
+              : `${styles.titleH1} ${styles.darkMode}`
+          }
+        >
+          Caledrier de l'avent
+        </h1>
+      ) : (
+        <h1
+          className={
+            isLight
+              ? `${styles.titleH1} ${styles.lightMode}`
+              : `${styles.titleH1} ${styles.darkMode}`
+          }
+        >
+          Caledrier de l'avent censuré
+        </h1>
+      )}
       <div
         className={
           isLight
