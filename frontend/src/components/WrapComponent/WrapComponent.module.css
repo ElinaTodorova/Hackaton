@@ -1,0 +1,22 @@
+.darkMode {
+  background: linear-gradient(rgb(0, 0, 69), #00001c);
+}
+
+.darkMode p,
+.darkMode h2,
+.darkMode h3 {
+  color: white;
+}
+
+.lightMode {
+  background: linear-gradient(rgb(69, 0, 0), #00001c);
+}
+
+.lightMode p,
+.lightMode h2 {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
