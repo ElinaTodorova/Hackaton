@@ -14,13 +14,6 @@ export default function CardQuestion() {
     dataTableau = DataBis;
   }
 
-  // const [dataTableau, setDataTableau] = useState(null);
-  // if (!isLight) {
-  //   setDataTableau(Data);
-  // } else {
-  //   setDataTableau(DataBis);
-  // }
-
   return (
     <div
       className={

@@ -38,7 +38,7 @@ export default function CalendarPage() {
         }
       >
         {array.map((element) => (
-          <Link to={`/question/${element.id}`}>
+          <Link key={element.id} to={`/question/${element.id}`}>
             <div key={element.id} className={styles.caseData}>
               <p>{element.id}</p>
               <p>Décembre</p>

@@ -50,6 +50,7 @@ a {
   align-items: center;
   padding-bottom: 6rem;
   padding-top: 5rem;
+  backdrop-filter: blur(4px);
 }
 
 .caseData p:nth-child(1) {
