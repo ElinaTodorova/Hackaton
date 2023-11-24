@@ -1,12 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 // eslint-disable-next-line import/no-extraneous-dependencies
-import Snowfall from "react-snowfall";
+// import Snowfall from "react-snowfall";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 import App from "./App";
 import CardQuestion from "./components/CardQuestion/CardQuestion";
+import WrapComponent from "./components/WrapComponent/WrapComponent";
+import { ThemeProvider } from "./components/contexts/ThemeContext";
 
 const router = createBrowserRouter([
   {
@@ -23,7 +25,12 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <Snowfall />
-    <RouterProvider router={router} />
+    {/* <Snowfall /> */}
+    <ThemeProvider>
+      <WrapComponent>
+        {/* <Snowfall /> */}
+        <RouterProvider router={router} />
+      </WrapComponent>
+    </ThemeProvider>
   </React.StrictMode>
 );

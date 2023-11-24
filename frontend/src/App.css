@@ -10,6 +10,5 @@
 }
 
 body {
-  background: linear-gradient(rgb(0, 0, 69), #00001c);
-  height: 100vh;
+  height: 100%;
 }

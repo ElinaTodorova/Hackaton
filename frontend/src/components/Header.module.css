@@ -1,6 +1,27 @@
 .header {
   display: flex;
   justify-content: center;
+  align-items: center;
   height: 20rem;
-  margin-top: 3rem;
+}
+
+.switch {
+  padding: 1vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.switch svg {
+  height: 2rem;
+  width: 2rem;
+}
+
+.darkMode svg {
+  fill: white;
+}
+.lightMode svg {
+  fill: white;
 }
