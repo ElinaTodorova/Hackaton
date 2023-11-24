@@ -25,9 +25,16 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    <Snowfall />
     <ThemeProvider>
       <WrapComponent>
+        <Snowfall
+          style={{
+            position: "fixed",
+            width: "100vw",
+            height: "100vh",
+          }}
+          snowflakeCount={600}
+        />
         <RouterProvider router={router} />
       </WrapComponent>
     </ThemeProvider>

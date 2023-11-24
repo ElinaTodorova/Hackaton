@@ -2,6 +2,7 @@
   text-align: center;
   font-size: 5rem;
   color: #daa520;
+  padding-top: 5rem;
 }
 
 .caseData {
@@ -10,8 +11,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   border-radius: 1.5rem;
   background-color: #efcf7e;
+}
+
+.lightMode .caseData {
+  color: black;
+}
+
+.darkmode .caseData {
+  color: black;
 }
 
 .caseData p {
@@ -31,6 +41,10 @@ a {
   align-items: center;
   padding-bottom: 6rem;
   padding-top: 5rem;
+}
+
+.caseData p:nth-child(1) {
+  font-size: 5rem;
 }
 
 @media screen and (width > 760px) {
