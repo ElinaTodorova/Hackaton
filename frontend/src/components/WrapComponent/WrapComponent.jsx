@@ -6,7 +6,7 @@ export default function WrapComponent({ children }) {
   const { isLight } = useTheme();
 
   return (
-    <div className={isLight ? `${styles.darkMode}` : `${styles.lightMode}`}>
+    <div className={!isLight ? `${styles.darkMode}` : `${styles.lightMode}`}>
       {children}
     </div>
   );

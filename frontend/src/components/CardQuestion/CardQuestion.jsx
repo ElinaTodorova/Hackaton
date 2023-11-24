@@ -9,7 +9,7 @@ export default function CardQuestion() {
   const { isLight } = useTheme();
   const { id } = useParams();
   let dataTableau = "";
-  if (isLight) {
+  if (!isLight) {
     dataTableau = Data;
   } else {
     dataTableau = DataBis;
