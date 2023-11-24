@@ -22,6 +22,7 @@
   border-radius: 1.5rem;
   -webkit-box-shadow: 4px 5px 15px 5px white;
   box-shadow: 4px 5px 15px 5px white;
+  backdrop-filter: blur(4px);
 }
 
 .lightMode .caseData {
@@ -50,7 +51,6 @@ a {
   align-items: center;
   padding-bottom: 6rem;
   padding-top: 5rem;
-  backdrop-filter: blur(4px);
 }
 
 .caseData p:nth-child(1) {
