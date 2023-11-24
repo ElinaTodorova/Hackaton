@@ -54,6 +54,7 @@
 }
 .cardHover {
   transition: transform 1s;
+  transition-delay: 3s;
   transform-style: preserve-3d;
   cursor: pointer;
   height: 75%;
@@ -114,9 +115,13 @@
 }
 
 .cardHover:hover .question {
-  display: none; /* Cachez la question au survol */
+  display: none;
+  transition-delay: 3s;
+  /* Cachez la question au survol */
 }
 
 .cardHover:hover .answer {
-  display: block; /* Affichez la réponse au survol */
+  display: block;
+  transition-delay: 3s;
+  /* Affichez la réponse au survol */
 }
