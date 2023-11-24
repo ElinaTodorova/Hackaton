@@ -9,11 +9,10 @@
 }
 
 .lightMode {
-  background: linear-gradient(rgb(0, 0, 226), #010147);
+  background: linear-gradient(rgb(69, 0, 0), #00001c);
 }
 
 .lightMode p,
-.lightMode h1,
 .lightMode h2 {
   color: white;
 }
