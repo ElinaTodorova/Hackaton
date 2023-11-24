@@ -2,169 +2,169 @@
   {
     "id": 1,
     "image": "https://images.unsplash.com/photo-1577797891735-d6deedb9fe1b?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Quel spectacle les écureuils vont-ils voir à Noël ?",
-    "reponse": "Casse-Noisette"
+    "setup": "Quel spectacle les écureuils vont-ils voir à Noël ?",
+    "delivery": "Casse-Noisette"
   },
 
   {
     "id": 2,
     "image": "https://images.unsplash.com/photo-1453306458620-5bbef13a5bca?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Blanc comme neige, je suis né dans l’eau. Mais j’y retourne, je disparais aussitôt. Qui suis-je ?",
-    "reponse": "Le sel"
+    "setup": "Blanc comme neige, je suis né dans l’eau. Mais j’y retourne, je disparais aussitôt. Qui suis-je ?",
+    "delivery": "Le sel"
   },
 
   {
     "id": 3,
     "image": "https://images.unsplash.com/photo-1609024849543-ff59df361d08?q=80&w=2758&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Mon premier est une consonne.Mon second est une note de musique.Mon tout s’offre à Noël.",
-    "reponse": "Un cadeau (K – Do)"
+    "setup": "Mon premier est une consonne.Mon second est une note de musique.Mon tout s’offre à Noël.",
+    "delivery": "Un cadeau (K – Do)"
   },
   {
     "id": 4,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Monsieur et Madame Relande ont un fils. Comment s’appelle t-il ?",
-    "reponse": "Guy (guirlande)"
+    "setup": "Monsieur et Madame Relande ont un fils. Comment s’appelle t-il ?",
+    "delivery": "Guy (guirlande)"
   },
 
   {
     "id": 5,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier est un synonyme de « morceau ». Mon deuxième est une consonne.Mon tout s’allume à Noël.",
-    "reponse": "Une bougie (Bout – J)       "
+    "setup": "Mon premier est un synonyme de « morceau ». Mon deuxième est une consonne.Mon tout s’allume à Noël.",
+    "delivery": "Une bougie (Bout – J)       "
   },
 
   {
     "id": 6,
     "image": "https://images.unsplash.com/photo-1575558418313-edfa02db4206?q=80&w=2972&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Comment appelle-t-on un chat tombé dans un pot de peinture le jour de Noël ?",
-    "reponse": "Un chat peint de Noël"
+    "setup": "Comment appelle-t-on un chat tombé dans un pot de peinture le jour de Noël ?",
+    "delivery": "Un chat peint de Noël"
   },
 
   {
     "id": 7,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "C'était la première journée d'école maternelle de Toto. Il rentre chez lui et sa mère le questionne:Alors, tu as appris beaucoup de chose aujourd'hui ?",
-    "reponse": "Surement pas assez, ils veulent que je revienne demain"
+    "setup": "C'était la première journée d'école maternelle de Toto. Il rentre chez lui et sa mère le setupne:Alors, tu as appris beaucoup de chose aujourd'hui ?",
+    "delivery": "Surement pas assez, ils veulent que je revienne demain"
   },
   {
     "id": 8,
     "image": "https://images.unsplash.com/photo-1514064982421-df8563d62bbf?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Monsieur et Madame Duciel ont 5 enfants, comment s’appellent-ils ?",
-    "reponse": "Betty Baba Noel Candide et Sandra Duciel (petit papa Noël quand il descendra du ciel)."
+    "setup": "Monsieur et Madame Duciel ont 5 enfants, comment s’appellent-ils ?",
+    "delivery": "Betty Baba Noel Candide et Sandra Duciel (petit papa Noël quand il descendra du ciel)."
   },
 
   {
     "id": 9,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier se jette lorsque vous jouez aux petits chevaux.Mon deuxième circule dans vos veines.Vous faites mon troisième quand il fait froid.C’est pendant mon tout qu’à lieu Noël.",
-    "reponse": "Décembre (Dé – Sang – Brrrrr)."
+    "setup": "Mon premier se jette lorsque vous jouez aux petits chevaux.Mon deuxième circule dans vos veines.Vous faites mon troisième quand il fait froid.C’est pendant mon tout qu’à lieu Noël.",
+    "delivery": "Décembre (Dé – Sang – Brrrrr)."
   },
 
   {
     "id": 10,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "À l'école, l'institutrice interroge Toto :Cite-moi un mammifère qui n'a pas de dents.",
-    "reponse": "Ma grand-mère ?"
+    "setup": "À l'école, l'institutrice interroge Toto :Cite-moi un mammifère qui n'a pas de dents.",
+    "delivery": "Ma grand-mère ?"
   },
 
   {
     "id": 11,
     "image": "https://images.unsplash.com/photo-1601118964938-228a89955311?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "À quoi rêvent les dindes à Noël ?",
-    "reponse": "Fêter le Nouvel An"
+    "setup": "À quoi rêvent les dindes à Noël ?",
+    "delivery": "Fêter le Nouvel An"
   },
 
   {
     "id": 12,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier se trace souvent avec un crayon et une règle.Mon deuxième veut dire non en anglais.Mon tout transporte le Père-Noël.",
-    "reponse": "Un traineau (Trait -No)."
+    "setup": "Mon premier se trace souvent avec un crayon et une règle.Mon deuxième veut dire non en anglais.Mon tout transporte le Père-Noël.",
+    "delivery": "Un traineau (Trait -No)."
   },
 
   {
     "id": 13,
     "image": "https://images.unsplash.com/photo-1460388052839-a52677720738?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Du ciel, je tombe. Dans les airs, je voltige. Dans le lait, parfois, je flotte. Qui suis-je ?",
-    "reponse": "Le flocon (de neige, d’avoine)."
+    "setup": "Du ciel, je tombe. Dans les airs, je voltige. Dans le lait, parfois, je flotte. Qui suis-je ?",
+    "delivery": "Le flocon (de neige, d’avoine)."
   },
 
   {
     "id": 14,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier est un possessif féminin.Mon deuxième se mange à tous les repas.Mon tout est un des symboles de Noël que les enfants prennent plaisir à décorer.",
-    "reponse": "Un sapin (Sa – Pain)."
+    "setup": "Mon premier est un possessif féminin.Mon deuxième se mange à tous les repas.Mon tout est un des symboles de Noël que les enfants prennent plaisir à décorer.",
+    "delivery": "Un sapin (Sa – Pain)."
   },
 
   {
     "id": 15,
     "image": "https://images-ext-1.discordapp.net/external/SH45wYwkvv5_0fk1l1LmYCgAUUTrNtibuQe1IspQjy4/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1509409836982-c0d71b087fd4?format=webp&width=610&height=406",
-    "question": "Un lutin regarde un portrait et dit : « Je n’ai ni frère ni sœur, mais le père de cet homme est le fils de mon père. » De qui le lutin regarde-t-il le portrait ?",
-    "reponse": "C’est le fils du lutin.. Le fils de mon père = moi, donc : « Le père de cet hommeest moi », donc : « Cet homme est mon fils »."
+    "setup": "Un lutin regarde un portrait et dit : « Je n’ai ni frère ni sœur, mais le père de cet homme est le fils de mon père. » De qui le lutin regarde-t-il le portrait ?",
+    "delivery": "C’est le fils du lutin.. Le fils de mon père = moi, donc : « Le père de cet hommeest moi », donc : « Cet homme est mon fils »."
   },
 
   {
     "id": 16,
     "image": "https://images.unsplash.com/photo-1583513702439-2e611c58e93d?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Qu’est-ce qui est rouge, vert et blanc ?",
-    "reponse": "Un lutin qui a attrapé un coup de soleil"
+    "setup": "Qu’est-ce qui est rouge, vert et blanc ?",
+    "delivery": "Un lutin qui a attrapé un coup de soleil"
   },
 
   {
     "id": 17,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier est une voyelle.Mon deuxième est une couleur.Mon tout est une saison.",
-    "reponse": "L’hiver (I – Vert)."
+    "setup": "Mon premier est une voyelle.Mon deuxième est une couleur.Mon tout est une saison.",
+    "delivery": "L’hiver (I – Vert)."
   },
   {
     "id": 18,
     "image": "https://images.unsplash.com/photo-1605571201949-b8b7ac7cadc7?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Quel est le comble pour un bonhomme de neige ?",
-    "reponse": "Se faire carotte"
+    "setup": "Quel est le comble pour un bonhomme de neige ?",
+    "delivery": "Se faire carotte"
   },
 
   {
     "id": 19,
     "image": "https://images.unsplash.com/photo-1600129979988-634770ae8b67?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Pourquoi est-ce que le Père Noël rit tout le temps ?",
-    "reponse": "Parce que ce n’est pas lui qui paye les cadeaux."
+    "setup": "Pourquoi est-ce que le Père Noël rit tout le temps ?",
+    "delivery": "Parce que ce n’est pas lui qui paye les cadeaux."
   },
 
   {
     "id": 20,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier est un appareil qui sonne le matin.Mon deuxième est un pronom personnel souvent équivalent à « nous ».Mon tout est le nom donné au soir de Noël.",
-    "reponse": "Le réveillon (Réveil – On)."
+    "setup": "Mon premier est un appareil qui sonne le matin.Mon deuxième est un pronom personnel souvent équivalent à « nous ».Mon tout est le nom donné au soir de Noël.",
+    "delivery": "Le réveillon (Réveil – On)."
   },
 
   {
     "id": 21,
     "image": "https://images.unsplash.com/photo-1608096299230-81c7b43d5dfc?q=80&w=2969&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Qu’ est-ce qui a 34 jambes, 9 têtes et 2 bras?",
-    "reponse": "Le Père Noël et ses huit rennes."
+    "setup": "Qu’ est-ce qui a 34 jambes, 9 têtes et 2 bras?",
+    "delivery": "Le Père Noël et ses huit rennes."
   },
 
   {
     "id": 22,
     "image": "https://images.unsplash.com/photo-1610562275255-03b7fa0d4655?q=80&w=2861&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Quel est le gâteau le plus dur au monde ?",
-    "reponse": "La bûche de Noël"
+    "setup": "Quel est le gâteau le plus dur au monde ?",
+    "delivery": "La bûche de Noël"
   },
   {
     "id": 23,
     "image": "https://images.unsplash.com/photo-1545048702-79362596cdc9?q=80&w=2970&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "En décembre, tous les enfants me mettent dans une boîte jaune. Qui suis-je ?",
-    "reponse": "La lettre du Père Noël"
+    "setup": "En décembre, tous les enfants me mettent dans une boîte jaune. Qui suis-je ?",
+    "delivery": "La lettre du Père Noël"
   },
   {
     "id": 24,
     "image": "https://images.unsplash.com/photo-1511600173735-a896042389cf?q=80&w=2912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "question": "Pourquoi le père noël a-t-il une barbe blanche ?",
-    "reponse": "Pour ne pas être confondu avec le Petit Chaperon Rouge"
+    "setup": "Pourquoi le père noël a-t-il une barbe blanche ?",
+    "delivery": "Pour ne pas être confondu avec le Petit Chaperon Rouge"
   },
   {
     "id": 25,
     "image": "https://images-ext-2.discordapp.net/external/QwhMdX-MVqya7VleKZwlZnWXGK9SF86AtD6g0UsTo6k/%3Fq%3D80%26w%3D2970%26auto%3Dformat%26fit%3Dcrop%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D/https/images.unsplash.com/photo-1603793303277-ed67787545e5?format=webp&width=610&height=406",
-    "question": "Mon premier se trouve entre sol et si.Mon deuxième recouvre tout notre corps.Les oiseaux construisent mon troisième pour leur petits.Vous trouverez le Père Noël en plein cœur de mon tout.",
-    "reponse": "En Laponie (La – Peau – Nid)."
+    "setup": "Mon premier se trouve entre sol et si.Mon deuxième recouvre tout notre corps.Les oiseaux construisent mon troisième pour leur petits.Vous trouverez le Père Noël en plein cœur de mon tout.",
+    "delivery": "En Laponie (La – Peau – Nid)."
   }
 ]

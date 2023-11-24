@@ -14,6 +14,13 @@ export default function CardQuestion() {
     dataTableau = DataBis;
   }
 
+  // const [dataTableau, setDataTableau] = useState(null);
+  // if (!isLight) {
+  //   setDataTableau(Data);
+  // } else {
+  //   setDataTableau(DataBis);
+  // }
+
   return (
     <div
       className={
@@ -32,9 +39,9 @@ export default function CardQuestion() {
                   <img src={question.image} alt="some" />
                 </div>
 
-                <p className={styles.question}> {question.question}</p>
+                <p className={styles.question}> {question.setup}</p>
                 <div>
-                  <p className={styles.answer}>{question.reponse}</p>
+                  <p className={styles.answer}>{question.delivery}</p>
                 </div>
               </div>
             ))}

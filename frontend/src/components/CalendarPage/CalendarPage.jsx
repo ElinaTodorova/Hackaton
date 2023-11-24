@@ -10,8 +10,8 @@ export default function CalendarPage() {
       <h1 className={styles.titleH1}>Caledrier de l'avent</h1>
       <div className={styles.containerDate}>
         {array.map((element) => (
-          <Link to={`/question/${element.id}`}>
-            <div key={element.id} className={styles.caseData}>
+          <Link to={`/question/${element.id}`} key={element.id}>
+            <div className={styles.caseData}>
               <p>{element.id} décembre</p>
             </div>
           </Link>
